@@ -12,6 +12,6 @@ nbconvert>=6.0.7
 Customize the dashboard as per your needs and create and share with your friends and colleagues
 
 # Example
-See my video explanation of the app here:
+See my video explanation of the app here: https://www.youtube.com/watch?v=uaAVywlGgQo
 
 # Check out my Medium post here:
