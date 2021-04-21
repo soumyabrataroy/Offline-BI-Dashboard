@@ -15,3 +15,4 @@ Customize the dashboard as per your needs and create and share with your friends
 See my video explanation of the app here: https://www.youtube.com/watch?v=uaAVywlGgQo
 
 # Check out my Medium post here:
+https://soumyabrataroy.medium.com/offline-bi-dashboard-you-can-send-through-email-43f4150d43fa
